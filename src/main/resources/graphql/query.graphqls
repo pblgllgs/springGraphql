@@ -1,0 +1,4 @@
+#Todas las consultas disponibles en este servidor
+type Query {
+    bankAccount(id: ID): BankAccount
+}
